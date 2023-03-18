@@ -5,7 +5,7 @@
 
 <h3 align="center">Full Stack Java Developer,QA</h3>
 
-<p align="justify"> I'm 38 years old,working in It world since 2009. Graduated from Marmara University,Computer Science,working as QA. Now I'm doing a further education,Full Stack Java Developer</p>
+<p align="justify"> I'm 40 years old,working in It world since 2009. Graduated from Marmara University,Computer Science,working as QA. Now I'm doing a further education,Full Stack Java Developer</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basri-akbas&label=Profile%20views&color=0e75b6&style=flat" alt="basri-akbas" /> </p>
 
